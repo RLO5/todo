@@ -1,3 +1,4 @@
 # todo
 check accounts:
-ardizor, mtzacat, 
+ardizor, mtzacat
+Aztek > zek
