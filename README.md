@@ -4,3 +4,4 @@ ardizor, mtzacat
 Aztek > zek
 perps
 main bridge
+contract
