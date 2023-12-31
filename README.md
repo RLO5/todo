@@ -5,3 +5,4 @@ Aztek > zek
 perps
 main bridge
 blabs
+check list
