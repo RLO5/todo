@@ -8,3 +8,4 @@ blabs
 check list
 x1
 holograph
+check daily
