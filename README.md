@@ -1,6 +1,6 @@
 # todo
 check accounts:
-ardizor, mtzacat
+ardizor, mtzacat, zek
 Aztek > zek
 perps
 main bridge
@@ -9,3 +9,4 @@ check list
 x1
 holograph
 check daily
+
