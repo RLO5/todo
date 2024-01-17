@@ -11,4 +11,4 @@ holograph
 obol node
 --check saved
 --check A tab
-
+--check zx mirror
