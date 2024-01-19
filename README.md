@@ -12,3 +12,4 @@ obol node
 --check saved
 --check A tab
 --check zx mirror
+-- check book
