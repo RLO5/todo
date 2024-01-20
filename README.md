@@ -13,3 +13,4 @@ obol node
 --check A tab
 --check zx mirror
 -- check book
+-- mint id
