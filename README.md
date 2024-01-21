@@ -14,3 +14,4 @@ obol node
 --check zx mirror
 -- check book
 -- mint id
+-- check data to earn cat
