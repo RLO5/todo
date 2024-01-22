@@ -15,3 +15,4 @@ obol node
 -- check book
 -- mint id
 -- check data to earn cat
+-- check ekubo
