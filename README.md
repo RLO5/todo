@@ -16,3 +16,4 @@ obol node
 -- mint id
 -- check data to earn cat
 -- check ekubo
+-- check glaci
