@@ -17,3 +17,4 @@ obol node
 -- check data to earn cat
 -- check ekubo
 -- check glac
+-- check zea
