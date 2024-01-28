@@ -19,3 +19,4 @@ obol node
 -- check glac
 -- check zea
 -- check claims
+-- check onchain daily task
