@@ -20,3 +20,4 @@ obol node
 -- check zea
 -- check claims
 -- check onchain daily task
+-- check esp
