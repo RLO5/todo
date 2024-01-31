@@ -13,7 +13,6 @@ obol node
 --check A tab
 --check zx mirror
 -- check book
--- mint id
 -- check data to earn cat
 -- check ekubo
 -- check glac
