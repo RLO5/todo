@@ -19,3 +19,4 @@ obol node
 -- check claims
 -- check onchain daily task
 -- check esp
+-- check updates
