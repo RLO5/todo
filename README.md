@@ -22,4 +22,4 @@ obol node
 -- check updates
 -- check moca
 -- check undo lst
--- check marginfi lend jup
+-- check marginfi lend jup > parcl
