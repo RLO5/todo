@@ -21,5 +21,5 @@ obol node
 -- check esp
 -- check updates
 -- check moca
--- check undo lst
+-- check undo list
 -- check marginfi lend jup > parcl
