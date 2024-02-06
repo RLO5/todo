@@ -23,3 +23,4 @@ obol node
 -- check moca
 -- check undo list
 -- check marginfi lend jup > parcl
+-- check your tel content
