@@ -25,5 +25,5 @@ obol node
 -- check marginfi lend jup > parcl
 -- check your tel content**
 - - run node
-  - keep going
+- keep going
 - contabo pay
