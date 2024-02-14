@@ -27,3 +27,4 @@ obol node
 - - run node
 - keep going
 - contabo pay
+- pre search
