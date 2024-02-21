@@ -1,5 +1,5 @@
 # todo
-check accounts:
+
 ardizor, mtzacat, zek
 Aztek > zek
 perps
@@ -25,8 +25,7 @@ obol node
 -- check marginfi lend jup > parcl
 -- check your tel content**
 - - run node
-- keep going
-- contabo pay
+- contabo 
 - pre search
 -- check books
 -- ethena, blast
