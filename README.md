@@ -26,7 +26,6 @@ obol node
 -- check your tel content**
 - - run node
 - contabo 
-- pre search
 -- check books
 -- ethena, blast
 -- check undo
