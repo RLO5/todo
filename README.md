@@ -28,4 +28,5 @@ obol node
 - contabo 
 -- check books
 -- ethena, blast
--- check saved 
+-- check saved
+-- stark campaign
