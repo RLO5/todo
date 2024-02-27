@@ -26,7 +26,7 @@ obol node
 -- check your tel content**
 - contabo 
 -- check books
--- ethena, blast
+-- ethena, blast, monad
 -- check saved
 -- stark campaign
 -- galxe spaces
