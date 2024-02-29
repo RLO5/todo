@@ -19,7 +19,6 @@ obol node
 -- check claims
 -- check onchain daily task
 -- check esp
--- check updates
 -- check moca
 -- check undo list
 -- check marginfi lend jup > parcl
