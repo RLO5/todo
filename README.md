@@ -6,7 +6,6 @@ perps
 main bridge
 blabs
 check list
-x1
 holograph
 obol node
 --check saved **
@@ -24,7 +23,6 @@ obol node
 -- check marginfi lend jup > parcl
 -- check your tel content**
 - contabo 
--- check books
 -- ethena, blast, monad
 -- check saved
 -- stark campaign
