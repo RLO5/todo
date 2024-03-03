@@ -28,3 +28,4 @@ obol node
 -- ethena, blast, monad
 -- check saved
 -- stark campaign
+-- linea park
