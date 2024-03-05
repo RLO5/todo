@@ -27,3 +27,4 @@ obol node
 -- check saved
 -- stark campaign
 -- linea park
+-- track memecoins
