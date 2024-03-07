@@ -14,7 +14,6 @@ obol node
 -- check book
 -- check data to earn cat
 -- check ekubo
--- check zea
 -- check claims
 -- check onchain daily task
 -- check esp
