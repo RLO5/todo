@@ -28,3 +28,4 @@ obol node
 -- linea park
 -- track memecoins
 -- check galxe 
+-- check nodes
