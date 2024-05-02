@@ -29,3 +29,4 @@ obol node
 -- track memecoins
 -- check galxe 
 -- check nodes
+-- check txt
