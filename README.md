@@ -27,5 +27,5 @@ obol node
 -- stark campaign
 -- linea park
 -- track memecoins
--- check galxe 
+-- check galxe spaces
 -- check txt
