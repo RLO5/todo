@@ -25,7 +25,7 @@ obol node
 -- ethena, blast, monad
 -- check saved
 -- stark campaign
--- linea park
+-- linea lxp
 -- track memecoins
 -- check galxe spaces
--- check txt
+-- check txt 
