@@ -24,7 +24,6 @@ obol node
 - contabo 
 -- ethena, blast, monad
 -- check saved
--- stark campaign
 -- linea lxp
 -- track memecoins
 -- check galxe spaces
