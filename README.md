@@ -22,6 +22,5 @@ obol node
 - contabo
 -- check saved
 -- linea lxp
--- track memecoins
 -- check galxe spaces
 -- check moei
