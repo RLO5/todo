@@ -24,3 +24,4 @@ obol node
 -- linea lxp
 -- check galxe spaces
 -- check moei
+-- import data to mac
